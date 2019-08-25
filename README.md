@@ -1,4 +1,6 @@
-# -legally-aquired-communist-literature
+# ajax's collection of totally legally aquired communist literature
+
+this is a work in progress
 
 dessalines has created massive amounts of stuff that you should check out
 https://github.com/dessalines/essays
